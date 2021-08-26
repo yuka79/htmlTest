@@ -3,6 +3,7 @@
 <head>
     <meta charset="UFT-8" />
     <title>tech boost</title>
+
     <style>
     h1 {
       color: red;
